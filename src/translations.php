@@ -187,6 +187,14 @@ return [
         "Longest Week Streak" => "Langste Week Serie",
         "Present" => "Vandaag",
     ],
+    "nm" => [
+        "Total Contributions" => "Вкупен придонес",
+        "Current Streak" => "Тековна низа",
+        "Longest Streak" => "Најдолга низа",
+        "Week Streak" => "Неделна низа",
+        "Longest Week Streak" => "Најдолга неделна низа",
+        "Present" => "Сега",
+    ],
     "pl" => [
         "Total Contributions" => "Suma Kontrybucji",
         "Current Streak" => "Aktualna Seria",
